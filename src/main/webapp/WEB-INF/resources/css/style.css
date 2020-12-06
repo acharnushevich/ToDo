@@ -1,0 +1,17 @@
+html,
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.modal-form {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.custom-file-label {
+  margin-left: 5px;
+  margin-right: 5px;
+}
